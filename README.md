@@ -1,6 +1,7 @@
 # Klaviyo Review Event Extractor
 
 This script extracts "Submitted Review" events from the Klaviyo API and exports the data to a CSV file.
+Built with Claude Code. 
 
 ## Installation
 
